@@ -1,4 +1,4 @@
-# Instalasi Laravel menggunakan Laragon dan Composer
+# Instalasi Laravel 
  Pastikan sebelumnya sudah menginstall [Laragon](https://laragon.org/download/) dan Composer (sudah termasuk dalam Laragon)
 
 1. Jalankan Laragon, lalu buka terminal
