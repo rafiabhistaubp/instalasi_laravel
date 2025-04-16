@@ -23,7 +23,7 @@
 
 4. Buka text editor
     ```bash
-    code.
+    code .
     ```
     ![Code .](assets/cdc.png)
     
